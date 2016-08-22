@@ -1,0 +1,5 @@
+@charset "UTF-8";
+h1 {text-align: center; font-family: Arial;}
+#gameBoard {border:1px solid #C2C2C2; width: 418px; margin: 0 auto;}
+.row {height: 22px;clear: both;}
+.cell{border:1px solid #C2C2C2;display: inline-block;float: left;}
